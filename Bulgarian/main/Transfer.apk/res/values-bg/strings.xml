@@ -22,8 +22,8 @@
   <string name="error_bad_file">Повреден файл</string>
   <string name="error_connect_service">Не може да се свърже към услугата за трансфер на файлове.</string>
   <string name="error_download">Свалянето неуспешно</string>
-  <string name="error_general">Получи се грешка</string>
-  <string name="error_network">Получи се мрежова грешка</string>
+  <string name="error_general">Възникна грешка</string>
+  <string name="error_network">Възникна мрежова грешка</string>
   <string name="error_not_enough_space">Няма достатъчно място на устройството</string>
   <string name="error_not_selected">Не е избран файл</string>
   <string name="error_peer_disconnected">Peer се изключи</string>
